@@ -1,0 +1,6 @@
+requests
+colorama
+fake-useragent
+pysocks
+stem
+emoji
