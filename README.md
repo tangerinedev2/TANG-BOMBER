@@ -33,7 +33,6 @@
 | 🛡️ **Anonimlik** | Webshare proxy + Tor desteği |
 | ⚡ **Hız** | 30 thread ile saniyede 3-5 SMS |
 | 📊 **Log Sistemi** | Detaylı log kaydı |
-| 🎯 **Limit Sistemi** | Haftalık limit + max SMS |
 | 🇹🇷 **Türk API'ler** | Trendyol, Migros, Bim, Sakasu... |
 | 🇨🇳 **Çin API'ler** | Caiyun, Pgyer, 12321... |
 
@@ -189,24 +188,6 @@ Detaylı bilgi için: [BAN_KORUMA.md](BAN_KORUMA.md)
 | Başarı Oranı | %60-70 |
 | 500 SMS Süresi | ~1.8 dakika |
 | 2000 SMS Süresi | ~7-10 dakika |
-
----
-
-## 🤖 DISCORD BOT ENTEGRASYONU
-
-Modül olarak kullanmak için:
-
-```javascript
-const TangBomber = require('./tang-bomber-module');
-const bomber = new TangBomber({
-    maxSms: 50,
-    weeklyLimit: 10
-});
-
-const result = await bomber.sendSms(userId, phone, amount);
-```
-
-Detaylı bilgi için `tang-bomber-module/` klasörüne bak.
 
 ---
 
