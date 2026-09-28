@@ -174,12 +174,6 @@ HEDEF_SMS = 2000       # Varsayılan hedef
 - ✅ **Fake Log** sistemi
 - ✅ **Rate Limit** koruması
 
-### Ban Koruması
-
-Detaylı bilgi için: [BAN_KORUMA.md](BAN_KORUMA.md)
-
----
-
 ## 📈 PERFORMANS
 
 | Metrik | Değer |
