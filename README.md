@@ -77,7 +77,7 @@ python tang_bomber.py
 ```sh
 apk update && apk upgrade
 apk add python3 py3-pip git
-git clone https://github.com/SuluMandalina/TANG-BOMBER.git
+git clone https://github.com/tangerinedev2/TANG-BOMBER.git
 cd TANG-BOMBER
 pip3 install requests colorama fake-useragent pysocks stem emoji
 python3 tang_bomber.py
