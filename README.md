@@ -43,7 +43,7 @@
 ### 1. Repoyu Klonla
 
 ```bash
-git clone https://github.com/SuluMandalina/TANG-BOMBER.git
+git clone https://github.com/tangerinedev2/TANG-BOMBER.git
 cd TANG-BOMBER
 ```
 
